@@ -1,0 +1,56 @@
+{
+  "monthly_budget": 400,
+  "currency": "EUR",
+  "spent_this_month": 97.97,
+  "remaining": 302.03,
+  "month": "March 2026",
+  "transactions": [
+    {
+      "date": "2026-03-01",
+      "items": [
+        "Rice 2kg",
+        "Yogurt x4",
+        "Butter"
+      ],
+      "total": 87.5,
+      "store": "Rewe",
+      "saved": 3.2
+    },
+    {
+      "date": "2026-03-02",
+      "items": [
+        "Milk"
+      ],
+      "total": 1.5,
+      "store": "Rewe",
+      "auto_purchased": true
+    },
+    {
+      "date": "2026-03-02",
+      "items": [
+        "Coffee"
+      ],
+      "total": 1.8,
+      "store": "Aldi",
+      "auto_purchased": true
+    },
+    {
+      "date": "2026-03-02",
+      "items": [
+        "Eggs"
+      ],
+      "total": 1.49,
+      "store": "Aldi",
+      "auto_purchased": true
+    },
+    {
+      "date": "2026-03-02",
+      "items": [
+        "Bread"
+      ],
+      "total": 5.68,
+      "store": "Rewe",
+      "auto_purchased": true
+    }
+  ]
+}

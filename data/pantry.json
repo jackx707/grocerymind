@@ -1,0 +1,56 @@
+{
+  "family_size": 3,
+  "currency": "EUR",
+  "items": {
+    "milk": {
+      "name": "Milk",
+      "quantity": 21.0,
+      "unit": "liters",
+      "daily_consumption": 1.5,
+      "days_left": 14.0,
+      "threshold_days": 2,
+      "avg_price": 0.95,
+      "preferred_store": "Rewe"
+    },
+    "coffee": {
+      "name": "Coffee",
+      "quantity": 280,
+      "unit": "grams",
+      "daily_consumption": 20,
+      "days_left": 14.0,
+      "threshold_days": 2,
+      "avg_price": 4.99,
+      "preferred_store": "Aldi"
+    },
+    "eggs": {
+      "name": "Eggs",
+      "quantity": 28,
+      "unit": "pieces",
+      "daily_consumption": 2,
+      "days_left": 14.0,
+      "threshold_days": 3,
+      "avg_price": 2.49,
+      "preferred_store": "Aldi"
+    },
+    "bread": {
+      "name": "Bread",
+      "quantity": 4.2,
+      "unit": "loaf",
+      "daily_consumption": 0.3,
+      "days_left": 14.0,
+      "threshold_days": 2,
+      "avg_price": 1.29,
+      "preferred_store": "Rewe"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "quantity": 500,
+      "unit": "grams",
+      "daily_consumption": 100,
+      "days_left": 5.0,
+      "threshold_days": 3,
+      "avg_price": 0.89,
+      "preferred_store": "Aldi"
+    }
+  }
+}
